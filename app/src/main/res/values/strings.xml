@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Helper</string>
-    <string name="facebook_app_id">498613843904219</string>
-    <string name="fb_login_protocol_scheme">fb498613843904219</string>
+    <string name="facebook_app_id">439236196546108</string>
+    <string name="fb_login_protocol_scheme">fb439236196546108</string>
     <string name="char_usd">$</string>
     <string name="real_time_exchange_rate">Real-time Exchange Rate</string>
     <string name="char_equal">=</string>
